@@ -1,7 +1,5 @@
 
----
 
-```markdown
 # 📄 AI Document Assistant (Gemini RAG)
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/6139ef23-2c9e-4678-af1c-820d7534a7b4" />
 
