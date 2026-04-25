@@ -146,26 +146,6 @@ Ayesha
 
 Give it a ⭐ on GitHub!
 
-````
 
 ---
 
-# 🎯 What to do next
-
-👉 Replace:
-- `your-username`  
-- `Your Name`  
-
-👉 (Optional but HIGHLY recommended)
-Add screenshot like:
-
-```markdown
-## 📸 Demo
-
-![App Screenshot](your-image-path.png)
-````
-
----
-
-If you want, I can:
-👉 optimize this README to look **top-tier (badges + demo + recruiter friendly)**
