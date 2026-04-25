@@ -70,7 +70,7 @@ ai-project/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/ai-document-assistant.git
+git clone https://github.com/Iamcoder101/ai-document-assistant
 cd ai-document-assistant
 
 python -m venv .venv
